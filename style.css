@@ -1,0 +1,6 @@
+.ren {
+	display: none;
+}
+.ren.active {
+	display: block;
+}
